@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImprintMX</string>
+    <string name="tittleSingin">Imprint</string>
+    <string name="etusername">Nombre de usuario</string>
+    <string name="etpassword">Contraseña</string>
+    <string name="buttonEntrarSingin">Entrar</string>
+    <string name="etbienvenido">Bienvenido </string>
+    <string name="hintetBienvenido">Bienvenido</string>
+</resources>
